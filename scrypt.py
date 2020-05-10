@@ -21,9 +21,9 @@ def index():
                                         <table>
                                             <tr>
                                                 <td class="headerTableTd">Главная</td>
-                                                <td class="headerTableTd" width="100%" align="center"> DostSeeker.com </td>
+                                                <td class="headerTableTd" width="100%" align="center">&nbsp;<b>DostSeeker.com</b>&nbsp;</td>
                                                 <td class="headerTableTd">&#X2709;</td>
-                                                <td class="headerTableTd">Log in</td>
+                                                <td class="headerTableTd">Log&nbsp;in</td>
                                             </tr>
                                         </table>
                                     </td>
